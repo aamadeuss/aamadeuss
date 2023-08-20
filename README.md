@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **metahuman animation from landmarks.**
 - 🌱 I’m currently learning **streamlit and gradio.**
 
-<img src="https://komarev.com/ghpvc/?username=aamdeuss&style=flat-square&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=aamadeuss&style=flat-square&color=orange" alt=""/>
 
 ---
 
