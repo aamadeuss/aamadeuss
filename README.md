@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **metahuman animation from landmarks data.**
+- 🔭 I’m currently working on **metahuman animation from landmarks.**
 - 🌱 I’m currently learning **streamlit and gradio.**
