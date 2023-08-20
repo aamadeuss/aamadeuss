@@ -41,4 +41,12 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aamadeuss&theme=holi-theme&border_radius=6&card_width=500&background=110%2C030314%2C5FABEE)]()
+<a href="">
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aamadeuss&theme=holi-theme&border_radius=6&card_width=200&background=110%2C030314%2C5FABEE" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aamadeuss&custom_title=Ayushmaan's%20Stats&card_width=200&hide_rank=true&show_icons=true&theme=holi&bg_color=110,030314,5FABEE" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamadeuss&theme=holi&layout=donut&langs_count=8&card_width=200&bg_color=110,030314,5FABEE" />
+</a>
