@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 <a href="">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aamadeuss&theme=holi-theme&border_radius=6&card_width=190&background=110%2C030314%2C5FABEE" />
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aamadeuss&theme=holi-theme&border_radius=6&background=110%2C030314%2C5FABEE" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aamadeuss&custom_title=Ayushmaan's%20Stats&card_width=200&hide_rank=true&show_icons=true&theme=holi&bg_color=110,030314,5FABEE" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aamadeuss&custom_title=Ayushmaan's%20Stats&show_icons=true&theme=holi&bg_color=110,030314,5FABEE" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamadeuss&theme=holi&layout=donut&langs_count=8&card_width=190&bg_color=110,030314,5FABEE" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamadeuss&theme=holi&layout=donut&langs_count=8&bg_color=110,030314,5FABEE" />
 </a>
